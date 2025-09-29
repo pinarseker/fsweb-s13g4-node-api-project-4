@@ -1,0 +1,23 @@
+{
+  "name": "fsweb-s13g4-node-api-project-4",
+  "version": "1.0.0",
+  "description": "Deployable Express API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js",
+    "test": "echo \"no tests for this challenge\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.36.0",
+    "nodemon": "^3.1.10"
+  }
+}
